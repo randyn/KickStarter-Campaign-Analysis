@@ -10,7 +10,8 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 In this assignment, I looked at 4,000 past Kickstarter campaigns to try to uncover trends in campaign success. After discussing conclusions that can be drawn and limitations of the analysis, I also mentioned some other analysis that would be interesting to pursue
 
-Analysis performed: 
+Analysis performed:
+
 * Campaign result by Category
 * Campaign result by Sub-category
 * Campaign result by Month started
